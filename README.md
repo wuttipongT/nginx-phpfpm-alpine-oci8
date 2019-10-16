@@ -8,6 +8,6 @@ This is a Web Server image to easily build an Oracle environment for test purpos
 - Put the archive in the `installer` directory (separate instantclient and sdk folder)
 - Execute `docker run up -d`, It will create the image and install Oracle Instant Client on it. it can take some time.   
 
-### structure directory
+### Structure Directory
 
 <img alt="VS Code in action" src="https://github.com/wuttipongT/nginx-phpfpm-alpine-oci8/blob/master/1571210532311.jpg">
