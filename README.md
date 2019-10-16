@@ -1,6 +1,6 @@
 # Nginx + PHP + OCI8 (alpine)
 
-This is a Webserver image to easily build an Oracle environment for test purposes.
+This is a Web Server image to easily build an Oracle environment for test purposes.
 
 ## How to build
 
