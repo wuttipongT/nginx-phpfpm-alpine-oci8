@@ -1,5 +1,7 @@
 FROM php:7.3-fpm-alpine
 
+MAINTAINER Wuttipong Thongmon <bed.wuttipong@gmail.com>
+
 COPY installer /installer/
 ENV ORACLE_HOME=/usr/local
 
